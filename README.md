@@ -1,14 +1,14 @@
 Hi My name is Russidan Nadee
 ===============================
 
-Application Developer
+Software Developer
 ---------
 
 6-month Intern Developer experience, involved in developing programs and assigned tasks to enhance skills in coding, design, and UX/UI structuring.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [russidan.nadee@gmail.com](mailto:russidan.nadee@gmail.com)
-* 🧠  I'm learning Develop applications
+* 🧠  I'm learning Develop cross platform
 
 ### Skills
 
