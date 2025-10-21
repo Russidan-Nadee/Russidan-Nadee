@@ -7,7 +7,7 @@ Engineer Graduate | Software Developer | Tech Explorer
 
 6-month Developer experience, building and deploying websites with knowledge in both frontend and backend.
 
-* 🇹🇭  I'm based in Bangkok, Thailand
+* 🌎  I'm based in Bangkok, Thailand
 * 👤  See my portfolio at [russidan.com](http://russidan.com/)
 * ✉️  You can contact me at [russidan.nadee@gmail.com](mailto:russidan.nadee@gmail.com)
 * 📚  I'm currently learning DevSecOps Process
