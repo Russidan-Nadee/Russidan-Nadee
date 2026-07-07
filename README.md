@@ -2,8 +2,9 @@ My name is Russidan and I am a Fullstack Developer
 ===============================
 
 
-Engineer Graduate | Software Developer | Tech Explorer
+Full-Stack Developer @ CloudCommerce | Next.js, NestJS, Zoho
 ------------------
+
 
 6-month Developer experience, building and deploying websites with knowledge in both frontend and backend.
 
