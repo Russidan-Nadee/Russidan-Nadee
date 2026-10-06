@@ -5,12 +5,10 @@
         media="(prefers-color-scheme: dark)"
         srcset="./banner-dark.png"
       />
-
       <source
         media="(prefers-color-scheme: light)"
         srcset="./banner-light.png"
       />
-
       <img
         src="./banner-light.png"
         alt="RUSSIDAN.com"
