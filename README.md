@@ -2,11 +2,11 @@
   <a href="https://russidan.com/">
     <picture>
       <source
-        media="(prefers-color-scheme: dark)"
+        media="(prefers-color-scheme: light)"
         srcset="./banner-dark.png"
       />
       <source
-        media="(prefers-color-scheme: light)"
+        media="(prefers-color-scheme: dark)"
         srcset="./banner-light.png"
       />
       <img
